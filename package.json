@@ -1,0 +1,1 @@
+{"license": "", "description": "This addon will copy the plain text, without formatting to the clipboard.", "contributors": [], "author": "BoringCode", "url": "", "dependencies": ["api-utils", "addon-kit"], "version": "0.3.rev15", "lib": "lib", "fullName": "Copy Plain Text", "main": "main", "id": "jid0-JvtVrW0JyKaE7H55VsRDwYnM2kM", "name": "copy-plain-text"}
